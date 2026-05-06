@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2026-05-06T10:50:12.225388",
+    "original": "#wrong-username-field",
+    "healed": "#username"
+  },
+  {
+    "timestamp": "2026-05-06T10:50:17.812331",
+    "original": "#wrong-password-field",
+    "healed": "#password"
+  },
+  {
+    "timestamp": "2026-05-06T10:50:24.113736",
+    "original": "#wrong-submit-btn",
+    "healed": "#submit"
+  }
+]
